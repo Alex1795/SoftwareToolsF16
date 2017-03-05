@@ -1,0 +1,4 @@
+This program is just some simple exercises such as make a raw sum of the accounts at the beggining of the file.
+It also looks for double palindrome numbers between 10 and 1000000. 
+Other function converts the integrers to boolean and back
+It also if a list is a sublist of other, gets an element and scale vectors.
