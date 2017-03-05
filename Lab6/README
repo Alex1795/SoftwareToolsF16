@@ -1,0 +1,2 @@
+It realizes operations with XML files. It can look for books by name, genre, author or matching words in the descriptions.
+The whole implementation is made using Regular Expresions (RegEx).
