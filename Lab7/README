@@ -1,0 +1,4 @@
+This exercise centers on classes and inheritance.
+This takes the class Student with the courses and transcript.
+You can add courses for each student
+Then the class School takes Student objects and save them as well as the information of the school.
