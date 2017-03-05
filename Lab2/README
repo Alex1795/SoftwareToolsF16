@@ -1,0 +1,14 @@
+The first program "treasure" Takes a 'map' that is a file with coordinates.
+It follows the coordinates indicated in each step of the map until it finds the one that points to itself.
+Then it outputs every step taken until the trasure was found. 
+The files were in the form:
+
+01 11 12
+00 12 02
+
+Where every coordinate was in written as [next row][next column]. 
+In this example the treasure is on 12 because it is pointing to itself
+
+The second program "sort" Takes a list of CPUs with its characteristics and sorts them from the fastest to the slowest.
+The characteristics included: Processor speed, cache size, brand, etc..
+The user can select which output wants to be seen
