@@ -1,0 +1,10 @@
+The first program "collect_stats" takes a list of athletes' names and its stats and collect them. 
+Then it outputs how many athletes prticipated, how many medals were won in total and the name of the one that won the most medals.
+
+The second file "mini_shell" Is a small shell-like aplication. Its fuctions include:
+-> Greet the user
+-> Compile a C program
+-> Run a C program 
+-> Quit the Shell
+
+If any of these function does not succed an apropiate message will be displayed.
