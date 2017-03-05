@@ -1,0 +1,5 @@
+This program controlls the access to a server. 
+Makes sure the user can make the request.
+It also can take a request from a controller.
+It can agregate requests for both the users and the controllers
+It takes the possible actions from a list.
