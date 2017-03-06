@@ -1,5 +1,16 @@
 The project implements a GUi which takes any image.
 Then operates using a matrix to take the image to other coordinate system.
+To use it the user have to select the corners on the original image 
+and the corner coordinates where the new image will be
+
+It also has some effects that can be used while doing the homography.
+
+-> rotate90 
+-> rotate180
+-> rotate270
+-> flipHorizontally
+-> flipVertically
+-> transpose
 
 This application uses clases, inheritance, RegEx and all the pthers topics on the class.
 The program uses the libraries numpy, scipy and PIL.
