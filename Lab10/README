@@ -1,0 +1,5 @@
+This Lab implements a GUI for a client.
+It takes first name, last name, address, city, state, ZIP and email.
+If all the information is correct (It is acceptable) the client is saved in a XML file.
+If the information is not correct an error message displays in the GUI.
+The GUI was given by the professor and it was realized on Qt.
