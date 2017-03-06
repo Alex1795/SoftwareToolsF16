@@ -1,0 +1,6 @@
+The project implements a GUi which takes any image.
+Then operates using a matrix to take the image to other coordinate system.
+
+This application uses clases, inheritance, RegEx and all the pthers topics on the class.
+The program uses the libraries numpy, scipy and PIL.
+The GUI was made by me using Qt. 
